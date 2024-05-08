@@ -2,3 +2,7 @@ h1{
 color:red;
 text-align:center;
 }
+th,td, table{
+color:green;
+font-size:25px;
+}
